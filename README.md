@@ -73,3 +73,12 @@ These are meant to be 1:1 copies of what is done in the video. If you found a be
 The starter files + solutions will be updated if/when the videos are updated.
 
 Thanks!
+
+## Project Demos
+
+* [Javascript Piano Kit](https://wdj0729.github.io/JavaScript30/01%20-%20Javascript%20Piano%20Kit/)
+* [JS and CSS Clock](https://wdj0729.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/)
+* [CSS Variables](https://wdj0729.github.io/JavaScript30/03%20-%20CSS%20Variables/)
+* [Array Cardio Day 1](https://wdj0729.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/)
+* [Flex Panel Gallery](https://wdj0729.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/)
+* [Type Ahead](https://wdj0729.github.io/JavaScript30/06%20-%20Type%20Ahead/)
