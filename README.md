@@ -82,3 +82,4 @@ Thanks!
 * [Array Cardio Day 1](https://wdj0729.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/)
 * [Flex Panel Gallery](https://wdj0729.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/)
 * [Type Ahead](https://wdj0729.github.io/JavaScript30/06%20-%20Type%20Ahead/)
+* [Array Cardio Day 2](https://wdj0729.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/)
