@@ -83,3 +83,4 @@ Thanks!
 * [Flex Panel Gallery](https://wdj0729.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/)
 * [Type Ahead](https://wdj0729.github.io/JavaScript30/06%20-%20Type%20Ahead/)
 * [Array Cardio Day 2](https://wdj0729.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/)
+* [Fun with HTML5 Canvas](https://wdj0729.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/)
