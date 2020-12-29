@@ -74,7 +74,7 @@ The starter files + solutions will be updated if/when the videos are updated.
 
 Thanks!
 
-## Project Demos
+## Live Demos
 
 * [Javascript Piano Kit](https://wdj0729.github.io/JavaScript30/01%20-%20Javascript%20Piano%20Kit/)
 * [JS and CSS Clock](https://wdj0729.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/)
