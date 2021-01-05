@@ -89,3 +89,4 @@ Thanks!
 * [Custom Video Player](https://wdj0729.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/)
 * [Key Sequence Detection](https://wdj0729.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/) 
 * [Slide in on Scroll](https://wdj0729.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/)
+* [JavaScript References VS Copying](https://wdj0729.github.io/JavaScript30/14%20-%20JavaScript%20References%20VS%20Copying/)
