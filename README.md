@@ -92,3 +92,4 @@ Thanks!
 * [JavaScript References VS Copying](https://wdj0729.github.io/JavaScript30/14%20-%20JavaScript%20References%20VS%20Copying/)
 * [LocalStorage](https://wdj0729.github.io/JavaScript30/15%20-%20LocalStorage/)
 * [Mouse Move Shadow](https://wdj0729.github.io/JavaScript30/16%20-%20Mouse%20Move%20Shadow/)
+* [Sort Without Articles](https://wdj0729.github.io/JavaScript30/17%20-%20Sort%20Without%20Articles/)
