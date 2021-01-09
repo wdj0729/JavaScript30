@@ -93,3 +93,4 @@ Thanks!
 * [LocalStorage](https://wdj0729.github.io/JavaScript30/15%20-%20LocalStorage/)
 * [Mouse Move Shadow](https://wdj0729.github.io/JavaScript30/16%20-%20Mouse%20Move%20Shadow/)
 * [Sort Without Articles](https://wdj0729.github.io/JavaScript30/17%20-%20Sort%20Without%20Articles/)
+* [Adding Up Times with Reduce](https://wdj0729.github.io/JavaScript30/18%20-%20Adding%20Up%20Times%20with%20Reduce/)
